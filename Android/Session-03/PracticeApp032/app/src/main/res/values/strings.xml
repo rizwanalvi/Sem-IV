@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeApp03</string>
+    <string-array name="lstCourseName">
+        <item>Maths</item>
+        <item>English</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+    </string-array>
+</resources>
