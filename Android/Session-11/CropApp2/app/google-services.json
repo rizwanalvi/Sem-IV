@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619773283153",
+    "project_id": "cropdb-61937",
+    "storage_bucket": "cropdb-61937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619773283153:android:11f13d124b7ffba045a170",
+        "android_client_info": {
+          "package_name": "com.example.cropapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619773283153-cvee3sntkc0uhptad2q0rq883dls238j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6lWNyuTsJeNMzpk5nm4U5PQ4qKH3_b30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619773283153-cvee3sntkc0uhptad2q0rq883dls238j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
